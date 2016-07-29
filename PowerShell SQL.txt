@@ -1,0 +1,11 @@
+System.Data.DataSet 
+
+
+
+
+
+https://community.spiceworks.com/topic/388926-sql-query-with-powershell
+
+https://www.spjeff.com/2015/04/21/datatable-in-powershell-for-crazy-fast-filters/
+
+http://stackoverflow.com/questions/804133/how-to-loop-through-a-dataset-in-powershell
